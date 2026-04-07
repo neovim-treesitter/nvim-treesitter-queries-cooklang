@@ -1,9 +1,9 @@
 {
+  "url": "https://github.com/addcninblue/tree-sitter-cooklang",
   "semver": false,
-  "lang": "cooklang",
-  "location": null,
   "parser_version": "4ebe237c1cf64cf3826fc249e9ec0988fe07e58e",
+  "location": null,
+  "lang": "cooklang",
   "generate": null,
-  "generate_from_json": null,
-  "url": "https://github.com/addcninblue/tree-sitter-cooklang"
+  "generate_from_json": null
 }
